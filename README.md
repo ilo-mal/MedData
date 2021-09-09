@@ -1,2 +1,2 @@
 # MedData
-MedData Vizualization using Pandas and Seaborn
+MedData Vizualization using Pandas and Seaborn.
